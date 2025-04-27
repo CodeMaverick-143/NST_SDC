@@ -167,7 +167,7 @@ export default function ContactPage() {
             <div>
               <h3 className="font-medium text-lg mb-3">Club Meetings</h3>
               <p className="text-muted-foreground">
-                We meet every Monday at 6:00 PM in the Tech Building, Room 101.
+                We meet every Monday at 6:00 PM in the SOE 4th floor, ADYPUxNST-Pune.
               </p>
               <p className="text-sm text-muted-foreground mt-2">
                 New members are always welcome to join our weekly sessions!
