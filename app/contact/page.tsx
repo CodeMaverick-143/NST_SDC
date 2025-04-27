@@ -126,7 +126,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-medium text-lg">Email</h3>
-                <p className="text-muted-foreground">contact@nst-sdc.org</p>
+                <p className="text-muted-foreground">support@nstsdc.org</p>
                 <p className="text-sm text-muted-foreground mt-1">We'll respond within 24-48 hours</p>
               </div>
             </div>
@@ -167,7 +167,7 @@ export default function ContactPage() {
             <div>
               <h3 className="font-medium text-lg mb-3">Club Meetings</h3>
               <p className="text-muted-foreground">
-                We meet every Wednesday at 6:00 PM in the Tech Building, Room 101.
+                We meet every Monday at 6:00 PM in the Tech Building, Room 101.
               </p>
               <p className="text-sm text-muted-foreground mt-2">
                 New members are always welcome to join our weekly sessions!
