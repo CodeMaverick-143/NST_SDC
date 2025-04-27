@@ -106,9 +106,9 @@ export default function Footer() {
           <div>
             <h3 className="font-bold text-lg mb-4">Contact</h3>
             <address className="not-italic text-muted-foreground">
-              <p>Tech Building, Room 101</p>
-              <p>National Science & Technology University</p>
-              <p className="mt-2">Email: contact@nst-sdc.org</p>
+              <p>SOE - 4th Floor, Newton School of Technology</p>
+              <p>Ajeenkya DY Patil</p>
+              <p className="mt-2">Email: support@nstsdc.org</p>
             </address>
           </div>
         </div>
