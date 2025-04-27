@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "NST_SDC_Website",
   description: "Building with purpose, learning by doing.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
