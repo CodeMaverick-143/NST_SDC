@@ -36,9 +36,9 @@ const pastEvents = [
   {
     id: 4,
     title: "Introduction to Git & GitHub",
-    date: "May 20, 2025",
+    date: "April 26, 2025",
     description: "A beginner-friendly workshop on version control using Git and collaboration with GitHub.",
-    location: "Tech Building, Room 203",
+    location: "SOE 4th floor Lab2",
     image: "/placeholder.svg?height=200&width=350",
   },
   {
