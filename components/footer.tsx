@@ -41,7 +41,7 @@ export default function Footer() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://instagram.com/nst_sdc"
+                href="https://www.instagram.com/devclub.nst"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-card hover:bg-primary/10 transition-colors"
@@ -50,7 +50,7 @@ export default function Footer() {
                 <Instagram className="h-5 w-5" />
               </a>
               <a
-                href="https://discord.gg/your-invite-code"
+                href="https://discord.gg/Rg7Qb5xWf3"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-card hover:bg-primary/10 transition-colors"
@@ -59,7 +59,7 @@ export default function Footer() {
                 <FaDiscord className="h-5 w-5" />
               </a>
               <a
-                href="https://youtube.com/@nstsdc"
+                href="www.youtube.com/@nstsdc-2028"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full bg-card hover:bg-primary/10 transition-colors"
